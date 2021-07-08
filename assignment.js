@@ -1,4 +1,4 @@
-// 
+// https://github.com/mhPavel786/assignment.js
 
 // kilometer to meter
  function kilometerToMeter(km) {
